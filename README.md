@@ -1,4 +1,8 @@
 # Full-Stack AI Web Application
+The project demonstrates modern full-stack development practices by combining a FastAPI backend, interactive frontend interface, database integration, and AI API services.
+
+Users can submit questions, receive generated responses, view conversation history, and interact with the application through a clean and responsive user interface.
+
 Frontend:
 HTML
 CSS
@@ -21,12 +25,16 @@ Vercel
 GitHub
 
 ## Features
-1. AI-Powered Question Answering
-2. Conversation Memory
-3.  Conversation History
-4.  Web-Based User Interface
-5. AI Model Integration
-6.  Database Integration
+AI-powered question answering
+Interactive AI chat interface
+FastAPI backend architecture
+Groq API integration for LLM responses
+Conversation history storage
+SQLite database integration
+Character counter for user input
+Copy AI response functionality
+Dark mode support
+Responsive design for different screen sizes
 
 ### installation
 
