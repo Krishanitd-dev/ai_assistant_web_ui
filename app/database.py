@@ -1,6 +1,6 @@
 import sqlite3
 
-DATABASE = "/tmp/conversations.db"
+DATABASE = "conversations.db"
 
 
 def get_connection():
